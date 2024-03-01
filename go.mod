@@ -1,4 +1,4 @@
-module github.com/sagernet/wireguard-go
+module github.com/ebrahimtahernejad/wireguard-warp
 
 go 1.18
 

@@ -6,8 +6,8 @@ import argparse
 import fileinput
 
 
-PKG_ORIGINAL = "golang.zx2c4.com/wireguard"
-PKG_NEW = "github.com/sagernet/wireguard-go"
+PKG_ORIGINAL = "github.com/sagernet/wireguard-go"
+PKG_NEW = "github.com/ebrahimtahernejad/wireguard-warp"
 
 EXTENSIONS = [".go", ".md", ".mod", ".sh"]
 

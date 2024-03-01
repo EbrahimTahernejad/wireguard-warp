@@ -13,10 +13,10 @@ import (
 
 	"github.com/sagernet/sing/common/atomic"
 	"github.com/sagernet/sing/service/pause"
-	"github.com/sagernet/wireguard-go/conn"
-	"github.com/sagernet/wireguard-go/ratelimiter"
-	"github.com/sagernet/wireguard-go/rwcancel"
-	"github.com/sagernet/wireguard-go/tun"
+	"github.com/ebrahimtahernejad/wireguard-warp/conn"
+	"github.com/ebrahimtahernejad/wireguard-warp/ratelimiter"
+	"github.com/ebrahimtahernejad/wireguard-warp/rwcancel"
+	"github.com/ebrahimtahernejad/wireguard-warp/tun"
 )
 
 type Device struct {

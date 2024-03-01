@@ -8,7 +8,7 @@ package device
 import (
 	"fmt"
 
-	"github.com/sagernet/wireguard-go/tun"
+	"github.com/ebrahimtahernejad/wireguard-warp/tun"
 )
 
 const DefaultMTU = 1420

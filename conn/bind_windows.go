@@ -16,7 +16,7 @@ import (
 
 	"github.com/sagernet/sing/common/atomic"
 	"golang.org/x/sys/windows"
-	"github.com/sagernet/wireguard-go/conn/winrio"
+	"github.com/ebrahimtahernejad/wireguard-warp/conn/winrio"
 )
 
 const (

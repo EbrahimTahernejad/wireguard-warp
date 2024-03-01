@@ -12,7 +12,7 @@ import (
 	"net/netip"
 	"os"
 
-	"github.com/sagernet/wireguard-go/conn"
+	"github.com/ebrahimtahernejad/wireguard-warp/conn"
 )
 
 type ChannelBind struct {
